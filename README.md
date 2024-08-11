@@ -57,3 +57,9 @@ It uses:
 
 - **Python**: 3.12.2
 - **Flask**: 2.2.2
+
+---
+
+**#buildwithgemini**
+
+---
