@@ -1,6 +1,6 @@
 # Inclusive.AI - Simplify Event Planning with Google Gemini
 
-**Inclusive.AI** - A project developed for the Google Gemini API Hackathon 2024, designed to simplify event planning. 
+**Inclusive.AI** - A project developed for the Google Gemini API Competition 2024, designed to simplify event planning. 
 
 Checkout the Demo video [on YouTube](https://www.youtube.com/watch?v=5_Mr9d-q7LY).
 
